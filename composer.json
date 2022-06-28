@@ -1,0 +1,9 @@
+{
+    "name": "ygors/app_filmes",
+    "autoload": {
+        "psr-4": {
+            "Ygors\\AppFilmes\\": "src/"
+        }
+    },
+    "require": {}
+}
